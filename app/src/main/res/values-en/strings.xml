@@ -1,0 +1,364 @@
+    <resources>
+        <string name="app_name">Movie Catalogue UI UX</string>
+        <string name="movies">Movies</string>
+        <string name="tv_show">tes</string>
+
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="description">ini berisi deskripsi</string>
+
+        <string name="judul_film">judul film</string>
+        <string name="deskripsi">ini adalah deskripsi dari sebuah film layar lebar. sekian terima kasih</string>
+        <string name="tag3">ini tag 3</string>
+        <string name="nama">judul film</string>
+        <string name="content">sinopsis  lengkap film</string>
+        <string name="kategory">kategori film</string>
+        <string name="sutradara">sutradara film</string>
+        <string name="produser">rumah produksi</string>
+        <string name="pemain">pemain film</string>
+        <string name="pemeran1">pemeran film pertama</string>
+        <string name="pemeran2">pemeran film kedua</string>
+        <string name="pemeran3">pemeran film ketiga</string>
+        <string name="tahun">tahun produksi</string>
+        <string name="name">judul</string>
+        <string name="stasiun_tv">stasiun tv</string>
+        <string name="tayang_perdana">tayang perdana</string>
+        <string name="gambar_tv">gambar_tv</string>
+        <string name="produksi">Production</string>
+        <string name="year">Year</string>
+        <string name="gambar_terkait">Related Images</string>
+        <string name="simpan">Save</string>
+        <string name="pilih_bahasa">Choose Language</string>
+        <string-array name="data_movie">
+            <item>What with love 2</item>
+            <item>Paragraphs of love</item>
+            <item>End of lecture notes</item>
+            <item>Habibie Ainun</item>
+            <item>Rainbow Troops</item>
+            <item>A Million Dollar Dream</item>
+            <item>Land 5 Tower</item>
+            <item>The dreamer</item>
+            <item>Kick from the sky</item>
+            <item>The sinking of the Van Der Wicjk Ship</item>
+            <item>Yo Wis Ben</item>
+        </string-array>
+        <string-array name="data_deskripsi">
+            <item>14 years after their romance in high school, Rangga and Cinta reunited in Yogyakarta to close their story after Rangga left Cinta without explanation.</item>
+            <item>This is a love story. But it not just an ordinary love story. Its about how to deal with the ups and downs of life problems in an Islamic way.</item>
+            <item>Sam Maulana, Sobari, Ajeb promised to graduate together. It turned out that only Sam had not yet completed the final project (thesis). Sam sadness was more complete, when he found out that the Beetle, he admired that he already had a girlfriend named Iwan. </item>
+            <item>Having a dream will never be easy. Habibie and Ainun know that. Their love awakens on the journey to realize dreams. </item>
+            <item>Dreams are the key for us to conquer the world Run tirelessly, until you reach it The Laskar Pelangi will not be bound by time Free your dreams in the sky colored stars in the soul</item>
+            <item>Merry Riana, a girl who graduated from high school, fled to Singapore by force because of the country unstable condition.</item>
+            <item>Under the towering mosque, the six of them often waited for sunset while staring at the violet clouds that marched back to the horizon. </item>
+            <item>The story of the struggle of Ikal life and his cousin, Arai, and his best friend, Jimbron - a portrait of teenagers who are looking for their identity, against the background of the old Belitong.</item>
+            <item>Born from a simple family that lives on the slopes of Mount Bromo, Wahyu knits his dream to become a famous soccer player in the country to make his father and mother happy.</item>
+            <item>From Makassar, Zainuddin sailed to his father homeland in Padang Panjang. His heart was captivated by a beautiful noble girl, Hayati. But alas, customs hinder their love.</item>
+            <item>Bayu liked Susan for a long time, but felt inferior about her mediocre state. Bayu was determined to change himself to be more popular than Roy, Susan band guitarist boyfriend. He formed a band with his friends, named Yowis Ben.</item>
+        </string-array>
+    <array name="data_poster">
+    <item>https://2.bp.blogspot.com/-j-k46GMVB-Y/XbIZUSmCHiI/AAAAAAAAA0c/pj63Va8lQfMpNeJ_fUxLYaux13wyJPThwCLcBGAsYHQ/s1600/Ada_Apa_Dengan_Cinta_2.png</item>
+    <item>https://3.bp.blogspot.com/-T9pxI4IcGJI/XbIaMFx-GuI/AAAAAAAAA00/1lPezQHHeEIAbUoMD0YDR0dhAHZtuoryQCLcBGAsYHQ/s1600/Ayat-Ayat_Cinta.png</item>
+    <item>https://1.bp.blogspot.com/-BpMAjL6qYdE/XbIaFLyBRjI/AAAAAAAAA0w/BM1DmLAsy8osJTRWTKcsAK4SAm2rQVDjACLcBGAsYHQ/s1600/Catatan_Akhir_Kuliah.png</item>
+    <item>https://3.bp.blogspot.com/-zJ22DSU_8m8/XbIaFArUYII/AAAAAAAAA0s/md9pqQja0v8SA25vl7cVTG6TENGYA2TrgCLcBGAsYHQ/s1600/Habibie_Ainun_Poster.png</item>
+    <item>https://3.bp.blogspot.com/-zX6mHfeoUFk/XbIZUXyByLI/AAAAAAAAA0g/FJee9rJXT0kPvL18npZUfN16QwJdljaRQCLcBGAsYHQ/s1600/Laskar_Pelangi_film.png</item>
+    <item>https://3.bp.blogspot.com/-Vg3mtCtTV2E/XbIaQZivPyI/AAAAAAAAA1A/UA06bus12HQIiwZYNUwz9MXI8XyELBmBACLcBGAsYHQ/s1600/mimpi%2Bsejuta%2Bdollar.png</item>
+    <item>https://2.bp.blogspot.com/-rRfra48tIN4/XbIaO31WxvI/AAAAAAAAA08/vn6QcLKV1_gfCNmo36EjjArz6EuTiKdOQCLcBGAsYHQ/s1600/N5M-POSTER-FIN.png</item>
+    <item>https://3.bp.blogspot.com/-k0C0OEX5UOI/XbIaVJ1qwnI/AAAAAAAAA1M/IVWTvs28v0M4rpcYAIDdaCIZEX_onlXewCLcBGAsYHQ/s1600/Sang_Pemimpi_film.png</item>
+    <item>https://3.bp.blogspot.com/-wYpTFP_wtwA/XbIaOXPqB5I/AAAAAAAAA04/PvLJs18zERsOMKmFvuGA1L_u1yYXbjSRgCLcBGAsYHQ/s1600/Tendangan_dari_Langit.png</item>
+    <item>https://2.bp.blogspot.com/-vr6OpbIIURw/XbIaRJ45iMI/AAAAAAAAA1I/t3LeiOKAQQo7_g-a45eG4gyERvJM-G3JQCLcBGAsYHQ/s1600/tenggelamnya%2Bkapal%2Bvan%2Bder%2Bwicjk.png</item>
+    <item>https://1.bp.blogspot.com/-qLS-bcmfk0c/XbIaQbhIolI/AAAAAAAAA1E/yghG0BZMQPEudU35C6zCZGkVOs0vFbaLQCLcBGAsYHQ/s1600/Yowis_Ben.png</item>
+    </array>
+        <array name="data_pemeran1">
+            <item>https://3.bp.blogspot.com/-RYWKH8-5i1U/XbJop-lT55I/AAAAAAAAA58/eeQN8383urMsGvu7uH6cjfGKcx9GYqlbwCLcBGAsYHQ/s1600/aadc_pemeran1.png</item>
+            <item>https://1.bp.blogspot.com/-xzmYBtreLEY/XbJopMN8WrI/AAAAAAAAA54/Z-hwwH_gYqI1b_Uuv4taoVmVLDsAYYt_wCLcBGAsYHQ/s1600/aac_pemain1.png</item>
+            <item>https://1.bp.blogspot.com/-lyrcOidQUSE/XbJou4L-HEI/AAAAAAAAA6Q/KgVlveFVZV0ju2U-8kBcL7upsqHVCm-QQCLcBGAsYHQ/s1600/cak_1.png</item>
+            <item>https://1.bp.blogspot.com/-a4ms_y_G7rA/XbJov1lRr3I/AAAAAAAAA6U/YGSleQ8m1HkUxSxQxChBkyIH-K2TSkBGQCLcBGAsYHQ/s1600/ha_1.png</item>
+            <item>https://3.bp.blogspot.com/-wJKcunJQbzY/XbJozjibuzI/AAAAAAAAA6s/gvVv8or0xYEBcz4qEQobE_BwzgvfKTt6QCLcBGAsYHQ/s1600/lp_1.png</item>
+            <item>https://1.bp.blogspot.com/-xthDGoq0JQ8/XbJo16Nbo8I/AAAAAAAAA64/YPOk6bCvagg_ScseaIQVmfoQs8HEqHSUwCLcBGAsYHQ/s1600/msd_1.png</item>
+            <item>https://4.bp.blogspot.com/-juXOeSK-Y60/XbJo3Lz8-4I/AAAAAAAAA7A/RfJeiKq_EyIgtKy61iC4QzK1tPdxbu0IgCLcBGAsYHQ/s1600/n5m_1.png</item>
+            <item>https://2.bp.blogspot.com/-5TIAsIIzHV4/XbJozkeobYI/AAAAAAAAA6o/1Vzp17Pd_l0aG-OT9GQnJB-AAdXY44EzACLcBGAsYHQ/s1600/lpm_1.png</item>
+            <item>https://2.bp.blogspot.com/-g8vMBFfgixo/XbJo4HL2ulI/AAAAAAAAA7M/824d_XSZ53ofLumnLHoQrVYvW5cFnkCWACLcBGAsYHQ/s1600/tdl_1.png</item>
+            <item>https://2.bp.blogspot.com/-qAeOZRnRvEI/XbJo419iTmI/AAAAAAAAA7U/tgrOXiFCt5ch4DN5taz2JK3Kx2pHFT0FgCLcBGAsYHQ/s1600/tkv_1.png</item>
+            <item>https://1.bp.blogspot.com/-9NEABQ_JaGw/XbJo5w_I0FI/AAAAAAAAA7c/q7xQ_-EIOCMwgoKYtjhG4yPrzPhsTkAagCLcBGAsYHQ/s1600/ywb_1.png</item>
+        </array>
+        <array name="data_pemeran2">
+            <item>https://1.bp.blogspot.com/-_6Ts6SQaDY8/XbJoqNBXLjI/AAAAAAAAA6A/_o_ywbfbCVo_6EmmVCjtnkI6Dv2V1ttFACLcBGAsYHQ/s1600/aadc_pemeran2.png</item>
+            <item>https://3.bp.blogspot.com/-Oicct5XbylA/XbJoowbVSdI/AAAAAAAAA50/5lA3zrp2Olo68CeEx7-Yo8E38TSvjSoMACLcBGAsYHQ/s1600/aac_pemain2.png</item>
+            <item>https://4.bp.blogspot.com/-LrMblQA7Pb4/XbJosa4D-MI/AAAAAAAAA6I/pjHczSzpJ-UFXTnFc-hAuvpZmX7bydG_ACLcBGAsYHQ/s1600/cak_2.png</item>
+            <item>https://1.bp.blogspot.com/-bAwio2K2wlI/XbJowrCG0tI/AAAAAAAAA6c/fI1qEfTc2bQcvUPsj1YKfHaqecsT1PNsACLcBGAsYHQ/s1600/hb_2.png</item>
+            <item>https://1.bp.blogspot.com/-5bXaLeUwkSE/XbJoxXgV80I/AAAAAAAAA6g/s4FGXzmSH5osIekYs6IbNGS-5Wil4rnwgCLcBGAsYHQ/s1600/lp_2.png</item>
+            <item>https://2.bp.blogspot.com/-IqRpBYIfAoI/XbJo1tC2kKI/AAAAAAAAA60/Yump6MS92NMKl6MCPe8EjehfBUR8QthGgCLcBGAsYHQ/s1600/msd_2.png</item>
+            <item>https://1.bp.blogspot.com/-NjA1HPxsCGc/XbJo3PkkhYI/AAAAAAAAA7I/N1VaqlQhJj48YOYDEWINdW7vvGvDRV9pgCLcBGAsYHQ/s1600/n5m_2.png</item>
+            <item>https://4.bp.blogspot.com/-UEz3mCJp_oo/XbJoygLeeFI/AAAAAAAAA6k/y_uXfdZR9TQKmKyZsU7EDkPMgojPA_ZTACLcBGAsYHQ/s1600/lp_3.png</item>
+            <item>https://4.bp.blogspot.com/-_B-sP1yRjho/XbJo4QuXKDI/AAAAAAAAA7Q/VM0niiP2h9Aah4P92ftiQ-g30mq11yI8wCLcBGAsYHQ/s1600/tdl_2.png</item>
+            <item>https://3.bp.blogspot.com/-iNap2_MYqK8/XbJo5vOFzqI/AAAAAAAAA7Y/xRKJupJZL3cbmD_2Ovr1cahHiczoMRqhwCLcBGAsYHQ/s1600/tkv_2.png</item>
+            <item>https://1.bp.blogspot.com/-02DHA6vX7zk/XbJo7sLY47I/AAAAAAAAA7g/NCYTiMrD37IAZ2sKKJUAOYVhEfcqJZF5ACLcBGAsYHQ/s1600/ywb_2.png</item>
+        </array>
+        <array name="data_pemeran3">
+            <item>https://3.bp.blogspot.com/-ql6OHWTZj0c/XbJorXQP2kI/AAAAAAAAA6E/39KQISeXOTEtW1psFkYR33Ru5Rx9h0PjgCLcBGAsYHQ/s1600/aadc_pemeran3.png</item>
+            <item>https://4.bp.blogspot.com/-mI5R1TjU0cI/XbJoortTcUI/AAAAAAAAA5w/HXXsM_jugWsKAVPtzrAo3vxLR_x0Vp6TQCLcBGAsYHQ/s1600/aac_pemain3.png</item>
+            <item>https://4.bp.blogspot.com/-uIbYMWSFksU/XbJouLk4sWI/AAAAAAAAA6M/mriBjtFRfs02rAAc88eNnkhlAJTiDngNwCLcBGAsYHQ/s1600/cak_3.png</item>
+            <item>https://4.bp.blogspot.com/-RI9PqP9Tl_Q/XbJov83dxhI/AAAAAAAAA6Y/DPBIVXAzAeM1SznKCKjquyMQsoeJq4-ywCLcBGAsYHQ/s1600/ha_3.png</item>
+            <item>https://4.bp.blogspot.com/-UEz3mCJp_oo/XbJoygLeeFI/AAAAAAAAA6k/y_uXfdZR9TQKmKyZsU7EDkPMgojPA_ZTACLcBGAsYHQ/s1600/lp_3.png</item>
+            <item>https://3.bp.blogspot.com/-lfRYcj7jh_c/XbJo2Hsu8XI/AAAAAAAAA68/rokEeTPLO8EClk80_wE5DCyvH_AyQBhBgCLcBGAsYHQ/s1600/msd_3.png</item>
+            <item>https://1.bp.blogspot.com/-tyL1RlvKO3Y/XbJo3BIzY7I/AAAAAAAAA7E/0z9DSYimnFoW8OXnj-gm7Hh7i6qapjs2QCLcBGAsYHQ/s1600/n5m_3.png</item>
+            <item>https://1.bp.blogspot.com/-tPIOU2CkWY8/XbJo0D9p27I/AAAAAAAAA6w/TN_0JRol_Acj1pxtAuKt9Dcn2VbX398ugCLcBGAsYHQ/s1600/lpm_3.png</item>
+            <item>https://1.bp.blogspot.com/-xthDGoq0JQ8/XbJo16Nbo8I/AAAAAAAAA64/YPOk6bCvagg_ScseaIQVmfoQs8HEqHSUwCLcBGAsYHQ/s1600/msd_1.png</item>
+            <item>https://1.bp.blogspot.com/-a4ms_y_G7rA/XbJov1lRr3I/AAAAAAAAA6U/YGSleQ8m1HkUxSxQxChBkyIH-K2TSkBGQCLcBGAsYHQ/s1600/ha_1.png</item>
+            <item>https://3.bp.blogspot.com/-aAu-re3xnlA/XbJo7xVP5wI/AAAAAAAAA7k/txGr-B-hT6EzZXRnYJfWKuWsjt5osJRJgCLcBGAsYHQ/s1600/ywb_3.png</item>
+        </array>
+        <string-array name="dataSutradara">
+            <item>Riri Riza</item>
+            <item>Hanung Bramantyo</item>
+            <item>Jay Sukmo</item>
+            <item>Faozan Rizal</item>
+            <item>Riri Riza</item>
+            <item>Hestu Saputra</item>
+            <item>Affandi Abdul Rachman</item>
+            <item>Riri Riza</item>
+            <item>Hanung Bramantyo</item>
+            <item>Sunil Soraya</item>
+            <item>Fajar Nugros, Bayu Skak</item>
+        </string-array>
+        <string-array name="dataProduksi">
+            <item>Miles Production dan Legacy Pictures</item>
+            <item>MD Pictures</item>
+            <item>DariHati Films</item>
+            <item>MD Pictures</item>
+            <item>Miles Films, Mizan Production, SinemaArt</item>
+            <item>MD Pictures</item>
+            <item>Million Pictures</item>
+            <item>Miles Films, Mizan Production</item>
+            <item>SinemaArt Pictures</item>
+            <item>Soraya Intercine Films</item>
+            <item>Star Vision</item>
+        </string-array>
+        <string-array name="dataTahun">
+            <item>2016</item>
+            <item>2008</item>
+            <item>2015</item>
+            <item>2012</item>
+            <item>2008</item>
+            <item>2014</item>
+            <item>2012</item>
+            <item>2009</item>
+            <item>2011</item>
+            <item>2013</item>
+            <item>2018</item>
+        </string-array>
+        <string-array name="dataKonten">
+            <item>Cinta (Dian Sastrowardoyo) who is now an adult has become the owner of a Mini Pop Art Cafe in Jakarta. He and the high school gang cheer Karmen (Adinia Wirasti), who is recovering from drug addiction. Milly (Sissy Priscillia) is married to a former high school partner Mamet gang (Dennis Adhiswara) and is currently pregnant with their first child, while Maura (Titi Kamal) is married to Chris (Christian Sugiono) with 4 children. Cinta announces that the woman will go on vacation to Yogyakarta and that she is engaged to her boyfriend Trian (Ario Bayu). Meanwhile, in New York City, Rangga (Nicholas Saputra) is the co-owner of a coffee shop when his step-sister, Sukma (Dimi Cindyastira), pays a visit to ask her to visit her mother long gone in Jogjakarta, but she refuses. He finally has a change of heart and decides to go there after his co-owner and friend Roberto (Chase Kuertz) convinces him that he must go home to Indonesia to finish something that needs to be resolved.</item>
+            <item>A love story with a religious background, especially Islam, in life. Fahri bin Abdillah is an Indonesian student who is trying to reach his master degree at Al-Azhar. He must struggle with a variety of dreams and the simplicity of life in Egypt. He survived by translating religious books. All dreams are lived by Fahri with enthusiasm except one: married. Fahri is a devout man who is so straight. He did not know dating before marriage. He is less articulate when dealing with women. There are only a few women who are close to him so far. His grandmother, mother and sister. Moving to Egypt made that change. Such is Maria Girgis. A flat neighbor who is a Coptic Christian but admires the Koran, and admires Fahri. Awe that turns into love. Unfortunately, Maria love is only shed in diaries. Then there is Nurul. The son of a famous cleric who also dredged knowledge in Al-Azhar. Fahri actually put a heart on this sweet girl. Unfortunately his inferiority which is only a descendant of a farmer made him never show anything to Nurul. While Nurul became doubtful and was always guessing.</item>
+            <item>Sam Maulana (Muhadkly Acho), Sobari (Ajun Perwira), Ajeb (Abdur Arsyad) promised to graduate together. It turned out that only Sam had not yet completed the final project (thesis). Sam sadness is more complete, when he found out that the Frog (Dina Anjani), he admired that he already had a girlfriend named Iwan (Andovi da Lopez). The experience of love is rejected again as when Sam shot Wibi (Elyzia Mulachela), who chose to be loyal to her lover at home. Sam is at the lowest point of his life. He must struggle to solve everything.</item>
+            <item>Rudy Habibie is an aircraft genius who has a big dream: to serve the Indonesian people by making airplanes to unite Indonesia. While Ainun is a bright young doctor with a wide open career path for him.
+
+In 1962, these two junior high school friends met again in Bandung. Habibie fell in love with Ainun who was as sweet as sugar to him. But Ainun, he not only fell in love, he had faith in Habibie visions and dreams. They married and flew to Germany.
+
+Having a dream will never be easy. Habibie and Ainun know that. Their love awakens on the journey to realize dreams. The cold German snow, sacrifice, pain, solitude and the temptation of wealth and power when they returned to Indonesia accompanied the journey of two lives into one.
+
+For Habibie, Ainun is everything. Ainun is the eye to see his life. For Ainun, Habibie is everything, a filler of love in his life. But every story has an end, every dream has a limit.</item>
+
+            <item>The first day of the opening of a new class at Muhammadyah Elementary School became very tense for two extraordinary teachers, Muslimah (Cut Mini) and Pak Harfan (Ikranagara), as well as 9 students who were waiting at the school located in the village of Gantong, Belitong. Because if not reach 10 students who register, the school will be closed.
+
+
+
+That day, Aaron, a special student, saved them. The 10 students who were later given the name Laskar Pelangi by Mrs. Muslimah, forged an unforgettable story.
+
+5 years together, Mrs. Mus, Mr. Harfan and the 10 students with their own uniqueness and privileges, struggling to continue to go to school. Among the various severe challenges and pressures to surrender, Ikal (Zulfani), Lintang (Ferdian) and Mahar (Veris Yamarno) with their talents and intelligence emerged as the driving force of their school spirit.
+
+In the midst of efforts to keep the school, they lost the figure they love. Will they be able to withstand trials after trials?
+
+The film is full of stories about the challenges of the periphery, and stories of emotion about the struggle of life to reach dreams, and the beauty of friendship that saves people lives, against the background of a beautiful island that was once one of the richest islands in Indonesia.</item>
+            <item>Merry Riana (Chelsea Islan), a girl who graduated from high school, fled to Singapore by force because of the country unstable condition. His parents did not allow him to remain in Indonesia. On the way to the airport, they were intercepted by a group of looters so they were forced to release their property. After arriving at the airport, Merry parents (Ferry Salim and Cynthia Lamusu) sell what is left to buy a ticket for Merry.
+
+In Singapore, Merry must find a place to live and survive alone. Armed with money that will run out for only five meals, his ambition to continue studying and be successful was impossible. However, later he met Irene (Kimberly Ryder) on social media. With the help of Irene, Merry sought legal loopholes to be allowed to stay in the dormitory. After that, Merry successfully passed the selection exam at one of the tertiary institutions. However, to be able to continue the process, he was required to pay $ 40,000, which he did not have at the time.
+
+Merry then meets Alva (Dion Wiyoko), a senior who, by providing several conditions, wants to be a guarantor for Merry to apply for a student loan. Because he wanted to succeed quickly and wanted to boast of his parents, he looked for ways to double his money, by working in a variety of fields, ranging from distributing brochures, online businesses, to playing high-risk stocks. Seeing Merry persistence at work and fulfilling her requirements, Alva expressed her feelings for Merry. Meanwhile, Merry realizes that Irene is also in love with Alva.</item>
+            <item>Alif (Gazza Zubizareta) is a simple child who has just graduated from junior high school in Maninjau. Together with his best friend Randai (Sakurta Ginting), Alif wants to continue his high school in Bandung and then enter his ideal campus, ITB. But the dream was only a dream when Amaknya (Lulu Tobing) wanted Alif to enter Pondok Madani, a pesantren in the corner of Ponorogo, East Java. Although at first Alif did not want to, Alif finally fulfilled his parents plea, even though half-heartedly.
+
+When Alif arrived at Pondok Madani with his father (David Chalik), his heart grew more and more broken. That place was truly increasingly tacky and resembled a prison in his eyes. Coupled with having to go back a year for adaptation classes. Alif encouraged himself to try to run at least the first year at Pondok Madani.
+
+Initially, Alif was more often alone. However, over time, Alif began to make friends with her roommates, Baso (Billy Sandy) from Gowa, Atang (Rizky Ramdani) from Bandung, Said (Ernest Samudera) from Surabaya, Raja (Jiofani Lubis) from Medan, and Dulmajid (Aris Putra) from Madura. The six of them always gather in the minarets of the mosque and call themselves Sahibul Menara alias tower owners.
+
+The atmosphere increasingly warmed up in the first class, when Alif was jolted by the enthusiastic screams of Ustad Salman (Donny Alamsyah): Man Jadda Wajada! That is, whoever is serious will succeed. This "mantra" adds to the enthusiasm and perseverance of the six children.</item>
+            <item>The Dreamer is a continuation of Laskar Pelangi. This film tells the story of Ikal (Vikri Setiawan) and his cousin, Arai (Rendy Ahmad), and his best friend, Jimbron (Azwar Fitrianto), in his teens, and tells the story of teenagers who are looking for self-identity and sexuality at the age of 17 years.
+
+Is a teacher named Balia (Nugie) who is a source of inspiration for Ikal, Arai and Jimbron. The Balia class takes them to the wonders of science and the breadth of life, a place that gives them breath to escape the pressures of life. Balia ignited their passion to explore Europe and other parts of the world to navigate life. However, at the same time, they must face the hard attitude of Pak Mustar (Landung Simatupang), the school principal. In contrast to Balia attitude, Pak Mustar is a teacher who applies the way of students with a pattern of punishment for those who are negligent.</item>
+            <item>Wahyu (16 years old) has an extraordinary ability to play soccer. He lives in Langitan Village on the slopes of Mount Bromo with his father, a hot drink seller in the volcano tourism area, and his mother.
+
+For the sake of his parents happiness, Wahyu took advantage of his expertise in playing football by being a rental player and playing soccer from one village team to another village team with the help of Hasan, his uncle. Unfortunately Pak Darto, Wahyu father, very much disliked what his son was doing.
+
+One day when Wahyu played soccer with his colleagues, his special expertise was accidentally seen by Coach Timo who was hiking with Matias on the slopes of Bromo. Timo coach then offered Wahyu to come to Malang and to undergo a test with Persema Malang.
+
+Unfortunately, various tests in gaining golden opportunity to play with Irfan Bachdim and Kim Kurniawan at Persema got many obstacles. Besides having to choose between his love for Indah and his dream of playing football at a higher level, Wahyu must also be able to convince Pak Darto. Not to mention that Hasan has his own interests in Wahyu.
+
+In addition to the various obstacles he had to face, like a soccer player before scoring a goal, Wahyu also had to face the final challenge from himself. A disease that usually attacks sixteen-year-old children like Revelation</item>
+            <item>Set in the 1930s, from the land of his birth Makassar, Zainuddin (Herjunot Ali) sailed to his father hometown in Batipuh, Padang Panjang. There, he met Hayati (Pevita Pearce), a beautiful beautiful girl who became a flower in her tribe. Both young people fall in love. However, strong customs and customs undermine their love. Zainuddin was only a destitute without ethnicity; because his mother is of Bugis blood and his father is of Minang blood, his status in the Minang community which is based on maternal lineage is not recognized. Therefore, he is considered to have no more blood ties with his family in Minangkabau. While Hayati is a polite Minang woman of royal descent.
+
+In the end, Zainuddin proposal was rejected by Hayati family. Hayati was forced to marry Aziz (Reza Rahadian), a well-known wealthy man who was favored by Hayati family over Zainuddin. Disappointed, Zainuddin decided to fight, leave the Minang realm and migrate to the land of Java in order to rise against the deterioration of his love. Zainudin worked hard to open a new page of his life. Until finally he became a famous writer with famous works and accepted by the people of the entire archipelago.
+
+But an unexpected event returned to Zainuddin. In the midst of his wealth and fame, in an opera performance, Zainuddin met Hayati again, this time with Aziz, her husband. In the end, Zainuddin and Hayati love story met its toughest test; Hayati returned to her hometown by boarding the Van der Wijck ship. In the middle of the trip, the ship that was boarded by the Biod sank. Before the ship sank, Zainuddin learned that Hayati actually still loved him.</item>
+            <item>Bayu (Bayu Skak) has liked Susan (Cut Meyriska) for a long time. But because he felt inferior about his mediocre state, Bayu decided to harbor that feeling.
+
+But Bayu days have changed since Susan sent voice chat to Bayu cellphone, which made her feel overwhelmed when she thought that Susan was giving a signal to be approached. It turned out that Susan only used Bayu to help her supply pecel for the consumption of her student council. Bayu is determined to change himself to be more popular than Roy (Indra Widjaya), Susan boyfriend, known as the guitarist of their school band,
+
+Bayu took the initiative to form a band with Doni (Joshua Suherman) - his best friend, Yayan (Tutus Thomson) - a drummer as drummer and Nando (Brandon Salim) - a handsome student who is good at the keyboard. They agreed to name their band YOWIS BEN.
+
+But apparently the steps of Bayu and his friends are not easy. During the times YOWIS BEN grew in the music world of Malang, slowly but surely the gap between personnel of YOWIS BEN began to appear.
+
+Did Bayu maintain his band and get Susan?</item>
+        </string-array>
+
+
+        <!--data tv show-->
+        <string-array name="judul_tvshow">
+            <item>This is a talk show</item>
+            <item>Black and white</item>
+            <item>The Bolang</item>
+            <item>MY Trip My Adventure</item>
+            <item>Adventure Trail</item>
+            <item>Najwa Eye</item>
+            <item>Indonesia Lawyers Club</item>
+            <item>Si Unyil laptop</item>
+            <item>Do you know</item>
+            <item>On The Spot</item>
+            <item>This is only Four Eyes</item>
+        </string-array>
+        <string-array name="deskripsi_tvshow">
+            <item>This Talk Show is a talk show / title show that is packed with a relaxed atmosphere. Discussing current issues in society in a simple way. In this event will also show the atmosphere of the house and the characters in the house.</item>
+            <item>Black and White is a speech program that airs Trans7. The event was hosted by an Indonesian mentalist, Deddy Corbuzier. Each program presents inspirational themes that are presented casually.</item>
+            <item>Si Bolang is a children documentary that airs on the Trans7 television station. This program premiered on March 26, 2006 when it was still called TV7. This program contains the adventures of children in various parts of the archipelago about the introduction of local nature and culture according to where children live. </item>
+            <item>My Trip My Adventure is a tourist documentary television program aired by Trans TV television station since September 2013. In this event, My Trip My Adventure describes the adventure and exploration of Indonesia natural beauty. </item>
+            <item>The Adventurer Trail is a television program in the form of a documentary that is owned by Trans7. The Trace Adventure program contains coverage in the form of phenomena and interesting things including nature, culture, local wisdom and export throughout Indonesia in accordance with facts.</item>
+            <item>Mata Najwa is a speech degree program guided by senior journalist, Najwa Shihab. The first season aired on MetroTV since November 25, 2009, Mata Najwa consistently presents interesting topics with first-class speakers. This talk show airs every Wednesday at 20:00 to 21:30 WIB.</item>
+            <item>Indonesia Lawyers Club is a talk show that is broadcast on tvOne. The program featured a 210-minute dialogue on legal and criminal matters and was guided by Karni Ilyas. This program is broadcast every Tuesday at 20:00 WIB and Sunday at 19:30 WIB. </item>
+            <item>Si Unyil laptop is a children program that first aired on Trans7 starting March 19, 2007 every Monday to Friday at 13:00 WIB, and then continued with Si Unyil Diary which airs every Saturday and Sunday.</item>
+            <item>It turns out that many trivial things around us that we do not know exactly. In fact, these things are very familiar with everyday life. Follow the show.</item>
+            <item>On The Spot is a news magazine show that airs Trans7. Initially the event was in the format of music playback which played various video clips of Indonesian musicians accompanied by various light information.</item>
+            <item>This Baru Empat Mata is an Indonesian talk show hosted by Tukul Arwana on Trans7. The program began to be guided by Tukul since September 2005. Each program delivered a specific theme interspersed with jokes.</item>
+        </string-array>
+        <array name="poster_tvshow">
+            <item>https://2.bp.blogspot.com/-E2L85uhSG7o/XbIcUKhFiJI/AAAAAAAAA1w/pHurFHA6fJclVL_1G57JxIQm05z9J2FoACLcBGAsYHQ/s1600/ini_talk_show.png</item>
+            <item>https://2.bp.blogspot.com/-RmRrEqyD10c/XbIcTv9YhbI/AAAAAAAAA1o/n6_T0vXfnyI8dvoRVJertXMoC1NSBZzogCLcBGAsYHQ/s1600/Hitam_Putih_1520222621.png</item>
+            <item>https://1.bp.blogspot.com/-PQ02DAYzAp4/XbJjhVqYezI/AAAAAAAAA2g/VlWAELnJppwvIuuMLjwNQxixeo8JAsp9gCLcBGAsYHQ/s1600/si%2Bbolang.png</item>
+            <item>https://2.bp.blogspot.com/-xrAh0W0MMhY/XbIcVuEZqGI/AAAAAAAAA18/2jmynl99c5M34bAXRJxpo9SeLLEm-nFNgCLcBGAsYHQ/s1600/mtma.png</item>
+            <item>https://1.bp.blogspot.com/-KNmFhBnBpOo/XbIcUNJOqaI/AAAAAAAAA1s/xE1urzSUchE8wQ_aacbd3VuSDphRqh_cACLcBGAsYHQ/s1600/jejak_petualang.png</item>
+            <item>https://1.bp.blogspot.com/-oGk-5LjOaP4/XbIcVckvS9I/AAAAAAAAA14/3Gdv4rJN184VVJ_GIAfsLRcSdYmTOsmNgCLcBGAsYHQ/s1600/mata_najwa.png</item>
+            <item>https://1.bp.blogspot.com/-TEVXoI-e5g4/XbJkA5zEeKI/AAAAAAAAA2o/26hPOK3J-HgLnPGf2WUUe4eZpTTZLQfrgCLcBGAsYHQ/s1600/ilc.png</item>
+            <item>https://4.bp.blogspot.com/-sLSZOWVBLh4/XbIcU837jkI/AAAAAAAAA10/gDdTq__iMMUb3-QVDal2eQeaDm1JJghNgCLcBGAsYHQ/s1600/laptop_si_unyil.png</item>
+            <item>https://3.bp.blogspot.com/-y2L113dnDbg/XbIcZZOzNtI/AAAAAAAAA2E/53FbcSaSt1Y97UxRvyEEblp025mNtnBzACLcBGAsYHQ/s1600/taugaksih2_trans7.png</item>
+            <item>https://1.bp.blogspot.com/-KZuKwpaiMtw/XbIcXsHgbyI/AAAAAAAAA2A/MwS3WcC8mFo3nNCUS43VpX2EVe4J-bNkACLcBGAsYHQ/s1600/on_the_spot.png</item>
+            <item>https://4.bp.blogspot.com/-Fnohfz5BPPw/XbIcTNHXQSI/AAAAAAAAA1k/ZAxUkpb1KF4M56SKU3_LuDzf1n7UyQqhgCLcBGAsYHQ/s1600/ini_baru_empat_mata.png</item>
+        </array>
+
+
+        <string-array name="kategori">
+            <item>Talk Show</item>
+            <item>Talk Show</item>
+            <item>Petualangan</item>
+            <item>Petualangan</item>
+            <item>Petualangan</item>
+            <item>Talk Show</item>
+            <item>Diskusi</item>
+            <item>Edukasi</item>
+            <item>Edukasi</item>
+            <item>Informasi</item>
+            <item>Talk Show</item>
+        </string-array>
+
+        <string-array name="produksi_tv_show">
+            <item>Net TV</item>
+            <item>Trans 7</item>
+            <item>Trans 7</item>
+            <item>Trans TV</item>
+            <item>Trans 7</item>
+            <item>Trans 7</item>
+            <item>TV One</item>
+            <item>Trans 7</item>
+            <item>Trans 7</item>
+            <item>Trans 7</item>
+            <item>Trans 7</item>
+        </string-array>
+
+        <string-array name="tayang_perdana">
+            <item>23 Maret 2014</item>
+            <item>November 2010</item>
+            <item>26 Maret 2006</item>
+            <item>September 2013</item>
+            <item>2003</item>
+            <item>25 November 2009</item>
+            <item>18 Februari 2008</item>
+            <item>19 Maret 2007</item>
+            <item>2015</item>
+            <item>27 Oktober 2008</item>
+            <item>25 September 2005</item>
+        </string-array>
+
+        <string-array name="konten_tvshow">
+        <item>This Talk Show is a talk show that is packed with a relaxed atmosphere. Discussing current issues in society in a simple way. In this event will also show the atmosphere of the house and the characters in the house. In this event, the players also play roles or act as well as asking guest stars and problems in the community. This event is famous because there are songs of Asoy Geboy Tea, Bohay Tea, Anggika Tea and Dapet Minta Coffee in several segments of this event.
+
+This program is a concept of the Comedy Nights with Kapil program which airs on Colors, a TV channel in India. This Talkshow has permission from the production of Comedy Nights with Kapil to be aired.
+
+This talk show airs every Monday-Friday, with live broadcasts every Tuesday-Friday. The concept and filming of the event began on March 23, 2014 and aired on March 29, 2014, so from that date March 29 was made the birthday of This Talkshow on NET.</item>
+
+            <item>Black and White is a speech program that airs Trans7. The event was hosted by an Indonesian mentalist, Deddy Corbuzier. Each program presents inspirational themes that are presented casually. Guest stars are often made helpless when given Deddy Corbuzier critical questions. In the early years, Deddy Corbuzier often slipped his typical magic actions into one of the segments in this event. But lately Black and White are more focused on themes and thoughts on the phenomena raised in that episode. Deddy spontaneous and candid nature often invites laughter and makes this event interesting.
+
+On Thursday 16 January 2014, Deddy Corbuzier announced that Black and White on Trans7 officially ended. [1] The cessation of the Black and White program made people disappointed, because the television program guided by Deddy Corbuzier was considered to give a lot of inspiration. Many people who requested that this program aired again. Black and White returned to the air on February 3, 2014 and aired every Monday to Friday at 18:30 WIB.</item>
+            <item>Si Bolang (full name: Si Bolang: adventurous boy) is a children documentary that airs on Trans7 television station. The program premiered on March 26, 2006 when it was still called TV7. [1] This program contains the adventures of children in various parts of the archipelago about the introduction of local nature and culture according to where children live. [2] This program was originally a development of the trail adventure program that aired on the same television station, but focused more on the scope of natural and cultural adventures of local children.</item>
+            <item>My Trip My Adventure is a tourist documentary television program that aired on Trans TV television station since September 2013. In this event, My Trip My Adventure describes the adventure and exploration of Indonesia natural beauty. [1] This program is usually guided by two hosts, or can be guided more. Now the MTMA Program airs every Saturday-Sunday at 11:00 WIB
+
+My Trip My Adventure has been named as one of the programs of good quality according to a survey of the quality of the Indonesian Broadcasting Commission television shows from September to October 2015.</item>
+            <item>The Adventurer Trail is a television program in the form of a documentary that is owned by Trans7. The Trace Adventure program contains coverage in the form of phenomena and interesting things including nature, culture, local wisdom and export throughout Indonesia in accordance with facts. Adventurous Traces provides new nuances and experiences for viewers who are passionate about doing outdoor activities. Trace Adventurer is a pioneer of adventure events in Indonesia. Since 2002, countless locations in this region of Indonesia have been "touched" by the Jejak Adventurer team, ranging from beaches, mountains, inland areas, and even the bowels of the earth (cave). So that each episode displays different regions.</item>
+            <item>Mata Najwa is a speech degree program guided by senior journalist, Najwa Shihab.
+
+The first season aired on MetroTV since November 25, 2009, Mata Najwa consistently presents interesting topics with first-class speakers. This talk show airs every Wednesday at 20:00 to 21:30 WIB. [1] A number of special guests were present and spoke at Mata Najwa, including the 3rd President of Indonesia, Bacharuddin Jusuf Habibie (episode: Habibie Today), the 5th President of Indonesia Megawati Soekarnoputri (episode: What Do Mega Say?), Former Vice President Boediono (Former Vice President Boediono (episode: episode: Behind Silent Boediono), Vice President Jusuf Kalla (episode: Brave Leader), SOE Minister Dahlan Iskan (episode: Cowboy Commander), and the current Governor of DKI Jakarta President Joko Widodo (episode: Laga Capital).</item>
+            <item>Indonesia Lawyers Club (abbreviated as ILC; formerly called the Jakarta Lawyers Club) is a talk show that is broadcast on tvOne. The program featured a 210-minute dialogue on legal and criminal matters and was guided by Karni Ilyas. This program is broadcast every Tuesday at 20:00 West Indonesia Time and Sunday at 19:30 West Indonesia Time (aired at 20:00 West Indonesia Time on November 30 2018 - February 17 2019).</item>
+            <item>Si Unyil laptop is a children program that first aired on Trans7 starting March 19, 2007 every Monday to Friday at 13:00 WIB, and then continued with Si Unyil Diary which airs every Saturday and Sunday.
+
+The difference in characteristics of the two programs is that the original laptop shows more about science and technology and also discusses games related to science. the diary of the unyil invites children to travel and recognize the games that are characteristic of a particular area, or which are entertaining but still educational.
+
+In these two shows the unyil will act as an observer who will speak and tell his viewers about what is being discussed in each episode. the idiot himself will usually be active in each of his shows whether his cap falls, or the idiot is sandwiched between things.</item>
+            <item>Tau Gak Sih is an information program that is packaged in an entertaining manner. With the slogan More and More Knowledge, Tau Gak Sih presents a variety of current information themes ranging from tourism, culinary, crafts, hobbies, to the manufacturing process. The existence of a typical Ojip-style Voxpop certainly provides an entertaining and up-to-date packaging nuance from the information presented.</item>
+            <item>An information program known as a pioneering magazine that presents a compilation of information on a variety of issues and topics ranging from phenomena, current issues, mysteries, wonders of the world, to science. Now not only presents a compilation of ranks of various information with a particular theme but also comes with other forms such as coverage and direct search. Also present with a contemporary look that makes the information presented not only increase knowledge but also engaging for viewers at home.</item>
+            <item>This is New Empat Mata (formerly known as Empat Mata and not Empat Mata) is an Indonesian talk show hosted by Tukul Arwana on Trans7. The program began to be guided by Tukul since September 2005. Each program delivered a specific theme interspersed with jokes. Not Four Eyes won the Panasonic Awards for the Best Entertainment Talkshow for 2 years in a row (2009, and 2010).</item>
+        </string-array>
+        <array name="gambar1">
+            <item>https://3.bp.blogspot.com/-cQKd8YK8OM0/XbJk4UWLjiI/AAAAAAAAA3Y/aGFXzr1-bUMUBgpr96eQKPCbBa1byBSeQCLcBGAsYHQ/s1600/its1.png</item>
+            <item>https://2.bp.blogspot.com/-cac_uXEas_E/XbJkzNnm2yI/AAAAAAAAA3E/Rnkr2lLVyawsVLpYaCVSNnxA3LzTbkWLgCLcBGAsYHQ/s1600/hp1.png</item>
+            <item>https://3.bp.blogspot.com/-CWp3N5s-vWQ/XbJlRkVvCnI/AAAAAAAAA44/nraiYzEw3nIc1EkySO4VwMKGYnaNikJZgCLcBGAsYHQ/s1600/sb1.png</item>
+            <item>https://2.bp.blogspot.com/-ZkHitIvY80U/XbJlGuLr2BI/AAAAAAAAA4M/qvmcAAaad6w2ft5K0f1SjIEvbc4qqzo9ACLcBGAsYHQ/s1600/mtma1.png</item>
+            <item>https://4.bp.blogspot.com/-jIMVz1fmkTM/XbJk5lZ8djI/AAAAAAAAA3k/hmS6agW-nBUzJypq6IaF9T9GhXIY5HBqACLcBGAsYHQ/s1600/jp1.png</item>
+            <item>https://2.bp.blogspot.com/-cp6N8TwmZDo/XbJk-XgjCbI/AAAAAAAAA4E/r9xcQW3pO6ssDs9zNm85r-UI4U9U6Z5egCLcBGAsYHQ/s1600/mn1.png</item>
+            <item>https://3.bp.blogspot.com/-gZXenLk1HYo/XbJk0koX_DI/AAAAAAAAA3M/2pLYivcm-gsVGjB7xMDqtqBCuUNMIzgawCLcBGAsYHQ/s1600/ilc1.png</item>
+            <item>https://2.bp.blogspot.com/-CUmgU-SG3_Y/XbJk7bQhh0I/AAAAAAAAA3s/HLxRFm03p-0DZucWKNPFgnj0mUF0TBQCACLcBGAsYHQ/s1600/lsu1.png</item>
+            <item>https://3.bp.blogspot.com/-MelUSQmtFkc/XbJlTyNjEWI/AAAAAAAAA48/Y2JIq8fgVqUbq-TnIEGGP9zOhN6hzaAvQCLcBGAsYHQ/s1600/tgs1.png</item>
+            <item>https://4.bp.blogspot.com/-sAOMc72Z9Lk/XbJlLHo45hI/AAAAAAAAA4Y/cZfvkOjmAVkSz0QFU132JXm25UL0seKxQCLcBGAsYHQ/s1600/ots1.png</item>
+            <item>https://2.bp.blogspot.com/-1aQJ_8hPX3Q/XbJky-j5TxI/AAAAAAAAA3A/_I06TSJoHlMIcs1O5zW_coeleL-LpSuAQCLcBGAsYHQ/s1600/ibem1.png</item>
+        </array>
+        <array name="gambar2">
+            <item>https://4.bp.blogspot.com/-7y4ZwQ0EsIc/XbJk5VzCKUI/AAAAAAAAA3c/OuLEj_sQFIsX1lHu6A4NULM9CizqlkTBgCLcBGAsYHQ/s1600/its2.png</item>
+            <item>https://1.bp.blogspot.com/-TX54RvvRTqo/XbJktDrnCLI/AAAAAAAAA24/AbyXzn3ifJk9kO82ePMvuaLaveQW10MMACLcBGAsYHQ/s1600/hp2.png</item>
+            <item>https://3.bp.blogspot.com/-wnmqc5r4-OY/XbJlRhY8trI/AAAAAAAAA40/PKsZzHyAKCATh2OLO6mT94uZY3axe2jNQCLcBGAsYHQ/s1600/sb2.png</item>
+            <item>https://3.bp.blogspot.com/-v8YP-sUkvNc/XbJlQzm9XBI/AAAAAAAAA4w/m2Iw2e_Edc0APXowRQxed1-D3a_esEpOwCLcBGAsYHQ/s1600/mtma2.png</item>
+            <item>https://3.bp.blogspot.com/-EV3Ob5IbFoc/XbJk6aKGB1I/AAAAAAAAA3o/RvGXMUyKoysZGaVb-yzCKjYM-KuILVFjACLcBGAsYHQ/s1600/jp2.png</item>
+            <item>https://1.bp.blogspot.com/-CdZ4yYot-Xk/XbJk-MHO95I/AAAAAAAAA4A/aa3Do51l_0Mxf1dcX8TxtHvjySfmktRVwCLcBGAsYHQ/s1600/mn2.png</item>
+            <item>https://2.bp.blogspot.com/-9v6kvwGks2I/XbJk2nZYw9I/AAAAAAAAA3Q/9puwO4QC0jMhB_lw1NnS6qZjIZ05Q-ISACLcBGAsYHQ/s1600/ilc2.png</item>
+            <item>https://3.bp.blogspot.com/-_idJTp3a96c/XbJk8haq3NI/AAAAAAAAA30/okTt7mgTC2MwEYDobyNbxHlJxrARAd_2gCLcBGAsYHQ/s1600/lsu2.png</item>
+            <item>https://1.bp.blogspot.com/-81V9sth1Rsg/XbJlVLg-FBI/AAAAAAAAA5A/uUgqa4AraIQbfEotvGQsvIocgNJhmgtDACLcBGAsYHQ/s1600/tgs2.png</item>
+            <item>https://2.bp.blogspot.com/-j4UOyoaP9G0/XbJlNBEZX7I/AAAAAAAAA4o/T4pCh_0XiQYmSnU8z_JhW8CvQkucghROwCLcBGAsYHQ/s1600/ots2.png</item>
+            <item>https://2.bp.blogspot.com/-Tq_vhpXIW-0/XbJky-p4igI/AAAAAAAAA28/wzANo4BF1B0CbwFLGCOZJ84uyzYGYLBFgCLcBGAsYHQ/s1600/ibem2.png</item>
+        </array>
+        <array name="gambar3">
+            <item>https://1.bp.blogspot.com/-CCOUQnfKC78/XbJk5i75E2I/AAAAAAAAA3g/CZxnLmtQPEUilaTpAOh6GwFsY7Volq-dACLcBGAsYHQ/s1600/its3.png</item>
+            <item>https://3.bp.blogspot.com/-fszDHCWUt9E/XbJkstxQkhI/AAAAAAAAA20/EVmd9fXF4QYB7hmcbUoKGdE-1ni7hcZkgCLcBGAsYHQ/s1600/hp3.png</item>
+            <item>https://4.bp.blogspot.com/-TT0g6udv9kc/XbJldQNVdXI/AAAAAAAAA5Q/-d05hTvA6Xcm6bWN8kF-NuzdFo9uJk6dQCLcBGAsYHQ/s1600/sb3.png</item>
+            <item>https://2.bp.blogspot.com/-44SzczApZHM/XbJlLu3VNoI/AAAAAAAAA4g/PdHBB06ClFMYqn3_RvHkUf8MALOLXedcgCLcBGAsYHQ/s1600/mtma3.png</item>
+            <item>https://3.bp.blogspot.com/-XKmSW6AVVmM/XbJk8grplQI/AAAAAAAAA3w/5Qpgcn6QBSA0q_7LbDQuprnV8gy5vS9pACLcBGAsYHQ/s1600/jp3.png</item>
+            <item>https://3.bp.blogspot.com/-HF60vhg7QIo/XbJlHy41XGI/AAAAAAAAA4Q/WFte0wzNy1EdcceWrXcWQZrQFGvlcn21gCLcBGAsYHQ/s1600/mn3.png</item>
+            <item>https://2.bp.blogspot.com/-LSTEKRvbAUQ/XbJk3eVgqKI/AAAAAAAAA3U/JWaF2bJpkBwboSdedjSn_AozsUjahjpVwCLcBGAsYHQ/s1600/ilc3.png</item>
+            <item>https://2.bp.blogspot.com/-AgJnxFPm5FY/XbJk9NoB5GI/AAAAAAAAA34/aZ5nhAdV_DY-057_NT-TmBAKU_fkZ029wCLcBGAsYHQ/s1600/lsu3.png</item>
+            <item>https://4.bp.blogspot.com/-_-GKXcyZvuI/XbJladHqENI/AAAAAAAAA5E/odZVdTq7PLcGizqQWN6NDDnbipkelcAegCLcBGAsYHQ/s1600/tgs3.png</item>
+            <item>https://1.bp.blogspot.com/-iseNuLOH1Qs/XbJlPRj_2CI/AAAAAAAAA4s/sxztq5FjCZYJa_0z3jn1G_gBzDh-evU-QCLcBGAsYHQ/s1600/ots3.png</item>
+            <item>https://1.bp.blogspot.com/-AFl2c7UJ0jw/XbJkz7BfoLI/AAAAAAAAA3I/LcAR2p8dPnAyRRHuMzIhe8gZPXPyd9yTACLcBGAsYHQ/s1600/ibem3.png</item>
+        </array>
+    </resources>
